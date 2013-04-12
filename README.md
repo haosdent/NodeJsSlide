@@ -1,6 +1,11 @@
+## Slide about node.js
+
+You can open it directly by click this [`url`](http://haosdent.github.io/NodeJsSlide).
+
+
 ### About slide template
 
-I am use HTML5 slide template from Google I/O 2012. You can find more details from [`this`](https://code.google.com/p/io-2012-slides/).
+I am use HTML5 slide template from Google I/O 2012. You can find more details by check out [`this`](https://code.google.com/p/io-2012-slides/).
 
 ### Running from a web server
 
